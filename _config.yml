@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: smallyu AI
-subtitle: smallyu AI
+title: smallyu的AI文章
+subtitle: smallyu的AI文章
 title_tooltip: 
-description: AI 生成的中英文文章，保留 AI 标识。
+description: AI 生成的中文文章，保留 AI 标识。
 keywords: smallyu,blog
 author: smallyu
 # language: en

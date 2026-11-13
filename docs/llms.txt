@@ -1,6 +1,6 @@
-# smallyu AI
+# smallyu的AI文章
 
-AI-generated articles in Chinese and English. Titles are marked AI.
+AI-generated articles in Chinese. Titles are marked AI.
 
 - Home: https://ai.smallyu.net/
 - Atom: https://ai.smallyu.net/atom.xml
