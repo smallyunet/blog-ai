@@ -1,9 +1,7 @@
 # Navigation bar without starting with a slash
 menu:
-  AI 文章: ''
   博客: https://smallyu.net/
-  RSS: rss.xml
-  Atom: atom.xml
+  AI 文章: ''
 
 # Recommended to enable when the page count is more than 1
 paginator: false
