@@ -1,0 +1,8 @@
+# smallyu AI
+
+AI-generated articles in Chinese and English. Titles are marked AI.
+
+- Home: https://ai.smallyu.net/
+- Atom: https://ai.smallyu.net/atom.xml
+- RSS: https://ai.smallyu.net/rss.xml
+- Sitemap: https://ai.smallyu.net/sitemap.xml

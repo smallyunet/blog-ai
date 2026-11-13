@@ -1,0 +1,623 @@
+[
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/Arc：生于以太坊，却抛弃了以太坊最脏的东西.md",
+    "file": "source/_posts/blog/Arc：生于以太坊，却抛弃了以太坊最脏的东西.md",
+    "title": "Arc：生于以太坊，却抛弃了以太坊最脏的东西（ETH）",
+    "date": "2026-09-25 21:23:00",
+    "original_body_sha256": "bbf06c5718a4814eded16e3745a88d5e6507ef2060479d6f6351339fb00c97cd",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/Cosmos代币和生态的没落.md",
+    "file": "source/_posts/blog/Cosmos代币和生态的没落.md",
+    "title": "Cosmos 代币和生态的没落",
+    "date": "2026-09-18 19:53:00",
+    "original_body_sha256": "2f71cad45b6003a87b3837128571f641d84e90b0ec95d5ff5a51ea7c621bef0b",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/Filecoin 生态和 FIL 代币的没落.md",
+    "file": "source/_posts/blog/Filecoin 生态和 FIL 代币的没落.md",
+    "title": "Filecoin 生态和 FIL 代币的没落",
+    "date": "2026-09-18 20:53:00",
+    "original_body_sha256": "22647c0daeea58531bc75b1e765a27bf553a3da6d133d09e1d59446cb8daab4e",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/Solana链上如何做到最快速度的狙击交易.md",
+    "file": "source/_posts/blog/Solana链上如何做到最快速度的狙击交易.md",
+    "title": "Solana 链上如何做到最快速度的狙击交易",
+    "date": "2026-09-17 12:18:00",
+    "original_body_sha256": "9f65cc28ecc8e6ca7a75bb08878a60c379c8b59f9c152e8b8fd6838a10e929cb",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/Solana链技术上的别扭之处.md",
+    "file": "source/_posts/blog/Solana链技术上的别扭之处.md",
+    "title": "Solana 链技术上的别扭之处",
+    "date": "2026-09-19 21:58:00",
+    "original_body_sha256": "889c3d9ca8df1bd8ca482069bc1aa2cec6eb73b958dcdf4678997853cf7c3704",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/ZEC价格被操纵的证据.md",
+    "file": "source/_posts/blog/ZEC价格被操纵的证据.md",
+    "title": "ZEC 价格被操纵的证据",
+    "date": "2026-09-17 19:53:00",
+    "original_body_sha256": "3b00883d879207b7ea8387d75ab7c8b5a43e33de55b98201abf3a90eae1320b0",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/中本聪为什么要创建 Polymarket.md",
+    "file": "source/_posts/blog/中本聪为什么要创建 Polymarket.md",
+    "title": "中本聪为什么要创建 Polymarket",
+    "date": "2026-09-05 22:46:00",
+    "original_body_sha256": "d022bd9283f99cd25e1bd1afdba535043d10a8806afbb430ac8d8ab69fd33bb0",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/中本聪为什么还没有死？.md",
+    "file": "source/_posts/blog/中本聪为什么还没有死？.md",
+    "title": "中本聪为什么还没有死？",
+    "date": "2026-08-30 21:54:00",
+    "original_body_sha256": "3d2d6fa25c2e4fd0b2744af9f23163bd4ca244759c66fd9f276ffb18e431884a",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/中本聪就是特朗普：真正的证据，从来不在代码里.md",
+    "file": "source/_posts/blog/中本聪就是特朗普：真正的证据，从来不在代码里.md",
+    "title": "中本聪就是特朗普：真正的证据，从来不在代码里",
+    "date": "2026-08-19 21:51:00",
+    "original_body_sha256": "740f3dffcaee94b7c5a382a2a0d290d5fb8de8fb514d436028fcfe92b37e7978",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/中本聪必须是特朗普.md",
+    "file": "source/_posts/blog/中本聪必须是特朗普.md",
+    "title": "中本聪必须是特朗普",
+    "date": "2026-08-30 16:40:00",
+    "original_body_sha256": "a03d422bc35ae00d4d93d9cab12eae01da41785722a2bca17d19ab1be0848051",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/中本聪就是特朗普，这件事其实早就写在时间线上.md",
+    "file": "source/_posts/blog/中本聪就是特朗普，这件事其实早就写在时间线上.md",
+    "title": "中本聪就是特朗普，这件事其实早就写在时间线上",
+    "date": "2026-08-19 20:28:00",
+    "original_body_sha256": "493f01b478754f1be1830142fcd313bae51579b93919392006e028c3eedc4236",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/为什么Polymarket比交易所邪恶很多倍.md",
+    "file": "source/_posts/blog/为什么Polymarket比交易所邪恶很多倍.md",
+    "title": "为什么 Polymarket 比交易所邪恶很多倍",
+    "date": "2026-10-06 18:02:22",
+    "original_body_sha256": "75f177c68e126eb08d2782b0199bb82a7bb6e621cd22cb8e7c04284d563841a1",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/为什么Solana可以查询代币的Holder列表，以太坊不可以？.md",
+    "file": "source/_posts/blog/为什么Solana可以查询代币的Holder列表，以太坊不可以？.md",
+    "title": "为什么 Solana 可以查询代币的 Holder 列表，以太坊不可以？",
+    "date": "2026-10-06 12:28:19",
+    "original_body_sha256": "d9cff9aea31566431515aa6d4c0b291d488581a192d549de808ce32ff4d02624",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/交易所，到底有多邪恶.md",
+    "file": "source/_posts/blog/交易所，到底有多邪恶.md",
+    "title": "交易所，到底有多邪恶",
+    "date": "2026-10-01 12:55:00",
+    "original_body_sha256": "9a54635a4a264e4f96a3f08bf5b67150cd787249bba2d0efebcd316b0f29f172",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/以太坊有多难用.md",
+    "file": "source/_posts/blog/以太坊有多难用.md",
+    "title": "以太坊有多难用",
+    "date": "2026-09-23 21:51:00",
+    "original_body_sha256": "73e7a674a87057c5472726afdba5179b2ce25b11107f916011c845a4bdb82bbc",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/以太坊的技术架构到底有多脏？.md",
+    "file": "source/_posts/blog/以太坊的技术架构到底有多脏？.md",
+    "title": "以太坊的技术架构到底有多脏？",
+    "date": "2026-09-23 12:31:00",
+    "original_body_sha256": "259174b4a3dccbdb561fdb5da272cdd2a87fcd9af6228dc697d433ffb2194753",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/如果没有 Polymarket，川普不会成为总统.md",
+    "file": "source/_posts/blog/如果没有 Polymarket，川普不会成为总统.md",
+    "title": "如果没有 Polymarket，川普不会成为总统",
+    "date": "2026-09-05 13:15:00",
+    "original_body_sha256": "a007e2af9dcb42f22f93c80d687f3f622df7f1a1bd3dcdc2cf4edf0cf615d3db",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/币安被盗跟你有什么关系？.md",
+    "file": "source/_posts/blog/币安被盗跟你有什么关系？.md",
+    "title": "币安被盗跟你有什么关系？",
+    "date": "2026-10-30 00:00:00",
+    "original_body_sha256": "bc3b9af90a7d028671d310ca005437bffde9c17473ab74cdbea6405757eccbcd",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/特朗普才是 Polymarket 真正的幕后老板.md",
+    "file": "source/_posts/blog/特朗普才是 Polymarket 真正的幕后老板.md",
+    "title": "特朗普才是 Polymarket 真正的幕后老板",
+    "date": "2026-09-04 11:24:00",
+    "original_body_sha256": "3b27c73be662b3eaa556a30314b9e26b2c2c1117766bb6e595749e67b161a84e",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/这很有趣，中本聪竟然击杀了伊朗真正的最高统治者.md",
+    "file": "source/_posts/blog/这很有趣，中本聪竟然击杀了伊朗真正的最高统治者.md",
+    "title": "这很有趣，中本聪竟然击杀了伊朗真正的最高统治者",
+    "date": "2026-09-06 17:38:00",
+    "original_body_sha256": "8dfeffaefc93caa8b8faa8f3e1e28a76cbd27969809b5b846a1e8dc38850faf4",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai_labs/既然中本聪是特朗普，他为什么还要发行 $TRUMP？.md",
+    "file": "source/_posts/blog/既然中本聪是特朗普，他为什么还要发行 $TRUMP？.md",
+    "title": "既然中本聪是特朗普，他为什么还要发行 $TRUMP？",
+    "date": "2026-08-29 13:54:00",
+    "original_body_sha256": "10ce3ced9be86aa18b80c5030ad43d22077e700376fb3aa0dad7449fda7e9b6a",
+    "assets": []
+  },
+  {
+    "source_site": "blog",
+    "source_file": "_posts/ai/区块链已死，山寨币已死.md",
+    "file": "source/_posts/blog/区块链已死，山寨币已死.md",
+    "title": "区块链已死，山寨币已死",
+    "date": "2026-11-10 00:00:00",
+    "original_body_sha256": "660082a17a3d63dc4643a3ce2d760cc745481fcaa4a225a0c9c1ddaedac46083",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/arc-born-on-ethereum-without-eth.md",
+    "file": "source/_posts/blog-en/arc-born-on-ethereum-without-eth.md",
+    "title": "Arc: Born on Ethereum, Without Its Dirtiest Component (ETH)",
+    "date": "2026-09-25 21:23:00",
+    "original_body_sha256": "8e56cf36b20f304c668c3a3baf8a88d003ee1b7ed0e2b0246b7b279731a88c52",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/evidence-of-zec-price-manipulation.md",
+    "file": "source/_posts/blog-en/evidence-of-zec-price-manipulation.md",
+    "title": "Evidence of ZEC Price Manipulation",
+    "date": "2026-09-17 19:53:00",
+    "original_body_sha256": "647793d0cf3c6e75c6ef0360192f4ddf9880dce7eba037f57735d727d3aa6d48",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/how-evil-are-exchanges.md",
+    "file": "source/_posts/blog-en/how-evil-are-exchanges.md",
+    "title": "Just How Evil Are Exchanges?",
+    "date": "2026-10-01 12:55:00",
+    "original_body_sha256": "c69598ee30905a90e9051e45002e9c47ea385065649173f8714e9ee70620545d",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/how-hard-is-ethereum-to-use.md",
+    "file": "source/_posts/blog-en/how-hard-is-ethereum-to-use.md",
+    "title": "How Hard Is Ethereum to Use?",
+    "date": "2026-09-23 21:51:00",
+    "original_body_sha256": "037f1b077d61085dcee95d8a22d1b80999baea004a2945f3a2214a5590fff327",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/how-messy-is-ethereums-architecture.md",
+    "file": "source/_posts/blog-en/how-messy-is-ethereums-architecture.md",
+    "title": "Just How Messy Is Ethereum’s Technical Architecture?",
+    "date": "2026-09-23 12:31:00",
+    "original_body_sha256": "7f44b2c03d24e68b752e5b8143644981a8f1f3acc3da9c7fa95e6bd7a5ff0a0f",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/satoshi-and-irans-real-supreme-ruler.md",
+    "file": "source/_posts/blog-en/satoshi-and-irans-real-supreme-ruler.md",
+    "title": "How Interesting: Satoshi Nakamoto Killed Iran’s Real Supreme Ruler",
+    "date": "2026-09-06 17:38:00",
+    "original_body_sha256": "cbb035d7e922a1edb98015f71a9b206635b55133ebb130470eabd19306284e7a",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/satoshi-is-trump-the-timeline.md",
+    "file": "source/_posts/blog-en/satoshi-is-trump-the-timeline.md",
+    "title": "Satoshi Nakamoto Is Trump: It Was Already Written in the Timeline",
+    "date": "2026-08-19 20:28:00",
+    "original_body_sha256": "465937b9a7ce27e3bc0ee980b96bedcac4da275a636cc3a6194e4a77fdabf867",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/satoshi-is-trump-the-evidence-is-not-in-the-code.md",
+    "file": "source/_posts/blog-en/satoshi-is-trump-the-evidence-is-not-in-the-code.md",
+    "title": "Satoshi Nakamoto Is Trump: The Real Evidence Was Never in the Code",
+    "date": "2026-08-19 21:51:00",
+    "original_body_sha256": "047d356e1970b0c145cff9f7d8d3fb4e490431218f2ed2bc3e746d10e58e032c",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/solanas-technical-awkwardness.md",
+    "file": "source/_posts/blog-en/solanas-technical-awkwardness.md",
+    "title": "The Awkward Parts of Solana’s Technical Design",
+    "date": "2026-09-19 21:58:00",
+    "original_body_sha256": "eb57b73447af87cec0c9553223e2b05fe6e5b0d3f4b144af3d25fad37684f506",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/satoshi-must-be-trump.md",
+    "file": "source/_posts/blog-en/satoshi-must-be-trump.md",
+    "title": "Satoshi Nakamoto Must Be Trump",
+    "date": "2026-08-30 16:40:00",
+    "original_body_sha256": "8e77f4508977ac856737c967113d9d7247a174cfe2a288fd73352ee29729d983",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/the-decline-of-cosmos.md",
+    "file": "source/_posts/blog-en/the-decline-of-cosmos.md",
+    "title": "The Decline of Cosmos Tokens and Its Ecosystem",
+    "date": "2026-09-18 19:53:00",
+    "original_body_sha256": "fdbf0c1d3929ea3f9041aa850d4d02eca9fd869e4414be7c821254e6ad3ea552",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/trump-is-polymarkets-real-boss.md",
+    "file": "source/_posts/blog-en/trump-is-polymarkets-real-boss.md",
+    "title": "Trump Is the Real Power Behind Polymarket",
+    "date": "2026-09-04 11:24:00",
+    "original_body_sha256": "1749e475ea0ea19de62883d6c99268e7bc30904b5506d66207f3bedfd620e158",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/the-fastest-sniping-trades-on-solana.md",
+    "file": "source/_posts/blog-en/the-fastest-sniping-trades-on-solana.md",
+    "title": "How to Execute the Fastest Sniping Trades on Solana",
+    "date": "2026-09-17 12:18:00",
+    "original_body_sha256": "9e242c6d2b21c1b3065ca1ef8172b6816a1f582c9fae21e90923480c14701779",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/the-decline-of-filecoin-and-fil.md",
+    "file": "source/_posts/blog-en/the-decline-of-filecoin-and-fil.md",
+    "title": "The Decline of the Filecoin Ecosystem and FIL",
+    "date": "2026-09-18 20:53:00",
+    "original_body_sha256": "daaa0544164df311b429d4fa3c94f2b29bd487d5fef7a5bea710102e53d32b37",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/why-polymarket-is-far-more-evil-than-exchanges.md",
+    "file": "source/_posts/blog-en/why-polymarket-is-far-more-evil-than-exchanges.md",
+    "title": "Why Polymarket Is Far More Evil Than Exchanges",
+    "date": "2026-10-06 18:02:22",
+    "original_body_sha256": "abffbd5f8044e6067d686e189dc016a3ed68d7a8face3bd1252a9bd8ef4fdf6f",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/why-solana-can-list-token-holders-and-ethereum-cannot.md",
+    "file": "source/_posts/blog-en/why-solana-can-list-token-holders-and-ethereum-cannot.md",
+    "title": "Why Can Solana List Token Holders While Ethereum Cannot?",
+    "date": "2026-10-06 12:28:19",
+    "original_body_sha256": "58de294640e765eb0f2c04c8cb78a9572ea7587e3edcaef709b91beafbec416d",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/why-satoshi-is-still-alive.md",
+    "file": "source/_posts/blog-en/why-satoshi-is-still-alive.md",
+    "title": "Why Is Satoshi Nakamoto Still Alive?",
+    "date": "2026-08-30 21:54:00",
+    "original_body_sha256": "184875083a3684d7af5b00b8231907d18818773f132a1788305e8cf9ae4bfab6",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/without-polymarket-trump-would-not-be-president.md",
+    "file": "source/_posts/blog-en/without-polymarket-trump-would-not-be-president.md",
+    "title": "Without Polymarket, Trump Would Not Have Become President",
+    "date": "2026-09-05 13:15:00",
+    "original_body_sha256": "12a8b8a325d9bdf7c3542e0f77bf722ad47bd2d8af2f30e236b5f57782830833",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/why-satoshi-created-polymarket.md",
+    "file": "source/_posts/blog-en/why-satoshi-created-polymarket.md",
+    "title": "Why Did Satoshi Nakamoto Create Polymarket?",
+    "date": "2026-09-05 22:46:00",
+    "original_body_sha256": "01ee78912f6be46cf24a2be439d97905e2389ec2841021451a3a1f4e4e40efbd",
+    "assets": []
+  },
+  {
+    "source_site": "blog-en",
+    "source_file": "_posts/ai_labs/why-satoshi-trump-issued-trump.md",
+    "file": "source/_posts/blog-en/why-satoshi-trump-issued-trump.md",
+    "title": "If Satoshi Nakamoto Is Trump, Why Issue $TRUMP?",
+    "date": "2026-08-29 13:54:00",
+    "original_body_sha256": "879450e9406a80014f172b6ac8eac0d8c597c7bbca436d2f89ef6406867ac365",
+    "assets": []
+  },
+  {
+    "source_site": "blog-b",
+    "source_file": "_posts/ai_labs/为什么做加密货币的钱包产品很难赚钱.md",
+    "file": "source/_posts/blog-b/为什么做加密货币的钱包产品很难赚钱.md",
+    "title": "为什么做加密货币的钱包产品很难赚钱",
+    "date": "2026-10-14 09:11:56",
+    "original_body_sha256": "1e45dc50dfa9fddb8eb330967fd59dfc06d8abe2ccdefb73ec7b05531b2a6c0d",
+    "assets": []
+  },
+  {
+    "source_site": "blog-b",
+    "source_file": "_posts/ai_labs/在北京的乡巴佬.md",
+    "file": "source/_posts/blog-b/在北京的乡巴佬.md",
+    "title": "在北京的乡巴佬",
+    "date": "2026-10-11 20:58:56",
+    "original_body_sha256": "76253d99ffe71d319697b8a6041fe52670032a3d79ad7a3bfa716f8316803007",
+    "assets": []
+  },
+  {
+    "source_site": "blog-b",
+    "source_file": "_posts/ai_labs/“独立开发者”是最大的骗局.md",
+    "file": "source/_posts/blog-b/“独立开发者”是最大的骗局.md",
+    "title": "“独立开发者” 是最大的骗局",
+    "date": "2026-10-07 22:10:17",
+    "original_body_sha256": "9d6db82266a8ad0d879a00cd601312cdd06b5d0120d1db267e4060a019b4890d",
+    "assets": []
+  },
+  {
+    "source_site": "blog-b",
+    "source_file": "_posts/ai_labs/中国为什么没有专业的个人交易员.md",
+    "file": "source/_posts/blog-b/中国为什么没有专业的个人交易员.md",
+    "title": "中国为什么没有专业的个人交易员",
+    "date": "2026-10-05 12:10:00",
+    "original_body_sha256": "5028c955ad5a755b20b228df0bb45bd3446d24cacab56b324580f756908ec149",
+    "assets": []
+  },
+  {
+    "source_site": "blog-b",
+    "source_file": "_posts/ai_labs/Web3-离钱近是错觉.md",
+    "file": "source/_posts/blog-b/Web3-离钱近是错觉.md",
+    "title": "Web3 离钱近是错觉",
+    "date": "2026-10-15 18:40:02",
+    "original_body_sha256": "018f2667386ac3df43ae95900e125a5212671442f71694ec4748c27b38e0a331",
+    "assets": []
+  },
+  {
+    "source_site": "blog-b",
+    "source_file": "_posts/ai_labs/为什么能力变强了，能做的事情却少了.md",
+    "file": "source/_posts/blog-b/为什么能力变强了，能做的事情却少了.md",
+    "title": "为什么能力变强了，能做的事情却少了",
+    "date": "2026-10-27 15:39:43",
+    "original_body_sha256": "f1e45c8464f32c7e7db6768d21027f20085fee639a28dbe8f0ecd68f190519da",
+    "assets": []
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/EVPLUS_EVPOLY 策略与运行架构调研报告.md",
+    "file": "source/_posts/blog-crazy/EVPLUS_EVPOLY 策略与运行架构调研报告.md",
+    "title": "EVPLUS / EVPOLY 策略与运行架构调研报告",
+    "date": "2026-08-07 20:53:00",
+    "original_body_sha256": "013d0622c92e2277d38bd2e777944aa527771e72d2ce176c0459b6699fcef678",
+    "assets": []
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/Pons V2 毕业池：全部配对资产的 30 天回测.md",
+    "file": "source/_posts/blog-crazy/Pons V2 毕业池：全部配对资产的 30 天回测.md",
+    "title": "Pons V2 毕业池：全部配对资产的 30 天回测",
+    "date": "2026-09-21 21:53:00",
+    "original_body_sha256": "48013ca425ec76a85f8fef064194ae2df90935f6d05067d3b251682dbba81442",
+    "assets": [
+      {
+        "path": "2.png",
+        "sha256": "28bd22c3a78c159afb5ad698644a240a11f8a7a81241e5bef509e34304e475eb"
+      },
+      {
+        "path": "1.png",
+        "sha256": "43f60127deb629ea655aa54ac0495e6453e2d80971b357d3cf43d240cec377e7"
+      }
+    ]
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/Pump.fun 毕业后 PumpSwap 抢入：链上分层样本回测.md",
+    "file": "source/_posts/blog-crazy/Pump.fun 毕业后 PumpSwap 抢入：链上分层样本回测.md",
+    "title": "Pump.fun 毕业后 PumpSwap 抢入：链上分层样本回测",
+    "date": "2026-09-21 22:53:00",
+    "original_body_sha256": "dd87e56d1bd07a1dfa889ca2003aad570e263d4d670e38c163d0856dd05b5cb8",
+    "assets": [
+      {
+        "path": "2.png",
+        "sha256": "c7a177a6a0e980c87166429a0ad4d96dfa54873702d29dfed6b484b019823cff"
+      },
+      {
+        "path": "1.png",
+        "sha256": "e7bd677f17826148bde8d8d6f320251e030dcced78ba1f95774e184ca18a7446"
+      }
+    ]
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/CZ（赵长鹏）家庭背景调查报告.md",
+    "file": "source/_posts/blog-crazy/CZ（赵长鹏）家庭背景调查报告.md",
+    "title": "CZ（赵长鹏）家庭背景调查报告",
+    "date": "2026-08-30 14:00:00",
+    "original_body_sha256": "9d619dda4ec420356c6a36d23db008683a2ed7e47c07f4f58974328c9ef9d10b",
+    "assets": []
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/Telegram 项目方向汇总.md",
+    "file": "source/_posts/blog-crazy/Telegram 项目方向汇总.md",
+    "title": "Telegram 项目方向汇总",
+    "date": "2026-08-30 20:53:00",
+    "original_body_sha256": "e31ca3ad91d969dd56f8ab0dcb7699ff6e007c593be84ae38947dd71d01db0bd",
+    "assets": []
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/Virae Auto Trade 反转分析（第一版数据报告）.md",
+    "file": "source/_posts/blog-crazy/Virae Auto Trade 反转分析（第一版数据报告）.md",
+    "title": "Virae Auto Trade 反转分析（第一版数据报告）",
+    "date": "2026-08-10 20:53:00",
+    "original_body_sha256": "0324300f74220810688c070bae027c9c3959315289e63a725871bebc7bddc91d",
+    "assets": []
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/狙击Pons V2 毕业池胜率：30 天链上回测.md",
+    "file": "source/_posts/blog-crazy/狙击Pons V2 毕业池胜率：30 天链上回测.md",
+    "title": "狙击Pons V2 毕业池胜率：30 天链上回测",
+    "date": "2026-09-21 20:53:00",
+    "original_body_sha256": "8c9fdde589c5a16928beecfd49c71728aafb898f15a5e697fba20c9902beeb15",
+    "assets": [
+      {
+        "path": "2.png",
+        "sha256": "65552e9a4fc9bf206bb19402fa94c796c4f34f98233fd8b1342ba9066b74b205"
+      },
+      {
+        "path": "1.png",
+        "sha256": "b7aac3060179752a91f33874be4856632bd28941f63e068df037b63184f0a77e"
+      }
+    ]
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/单钱包行为分类与逐类分析.md",
+    "file": "source/_posts/blog-crazy/单钱包行为分类与逐类分析.md",
+    "title": "单钱包行为分类与逐类分析",
+    "date": "2026-09-12 21:53:00",
+    "original_body_sha256": "39a0cb1ec6534d6262a4659b707810eb9caa02ef85b4739fcb18489ab4e99b6b",
+    "assets": []
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/孙宇晨家庭背景调查报告.md",
+    "file": "source/_posts/blog-crazy/孙宇晨家庭背景调查报告.md",
+    "title": "孙宇晨家庭背景调查报告",
+    "date": "2026-08-30 13:00:00",
+    "original_body_sha256": "f5da5fa8950d59f3aeb60da71000d594a29ca812b98e7623bb73b229436c91dc",
+    "assets": []
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/郭宏才（“宝二爷”）家世、原始资本与财富形成路径调查报告.md",
+    "file": "source/_posts/blog-crazy/郭宏才（“宝二爷”）家世、原始资本与财富形成路径调查报告.md",
+    "title": "郭宏才（“宝二爷”）家世、原始资本与财富形成路径调查报告",
+    "date": "2026-08-30 12:00:00",
+    "original_body_sha256": "2dbf42787d8ba36eccc592eb7bc342891c2e2900d39782627fea89cbaedce884",
+    "assets": []
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/钱包关联关系检测与展示工具调研.md",
+    "file": "source/_posts/blog-crazy/钱包关联关系检测与展示工具调研.md",
+    "title": "钱包关联关系检测与展示工具调研",
+    "date": "2026-09-12 20:53:00",
+    "original_body_sha256": "57efc4c886e8f56affa58f8d9807ead839ab544321439dd23dc2e54e3bed2c06",
+    "assets": []
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/知识最廉价的形式是传承.md",
+    "file": "source/_posts/blog-crazy/知识最廉价的形式是传承.md",
+    "title": "知识最廉价的形式是 \"传承\"",
+    "date": "2026-10-08 21:32:50",
+    "original_body_sha256": "0b45161a8fe36fce1756fca5cf8216a6ceb96476cf972d276c9007e118f20928",
+    "assets": []
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/诺贝尔奖跟你有什么关系？.md",
+    "file": "source/_posts/blog-crazy/诺贝尔奖跟你有什么关系？.md",
+    "title": "诺贝尔奖跟你有什么关系？",
+    "date": "2026-10-09 15:13:51",
+    "original_body_sha256": "c777bde73190b2680403cf172452286a4e4fbef460b058a76614d2ed46920033",
+    "assets": []
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/考上名校不是你的本事，是你父母的本事.md",
+    "file": "source/_posts/blog-crazy/考上名校不是你的本事，是你父母的本事.md",
+    "title": "考上名校不是你的本事，是你父母的本事",
+    "date": "2026-10-14 18:38:35",
+    "original_body_sha256": "fa745b6d2a89bf7d7f5e0f93c9a77f41ecbfc4a67a749d35e0af7101685a68a6",
+    "assets": []
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/中国资产分布研究.md",
+    "file": "source/_posts/blog-crazy/中国资产分布研究.md",
+    "title": "中国资产分布研究",
+    "date": "2026-10-16 19:25:17",
+    "original_body_sha256": "01e78db4a10c124fbcf38cc488a13f64909a8532aa34d90587c477dcdf1b7a9b",
+    "assets": []
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/萨尔瓦多调研报告.md",
+    "file": "source/_posts/blog-crazy/萨尔瓦多调研报告.md",
+    "title": "萨尔瓦多调研报告",
+    "date": "2026-10-18 14:59:13",
+    "original_body_sha256": "1703c288422cdc8b35b2b8c60f7bdf30557c7a707f12860c43cdcff5a3b63b51",
+    "assets": []
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/结婚证弊大于利.md",
+    "file": "source/_posts/blog-crazy/结婚证弊大于利.md",
+    "title": "结婚证弊大于利",
+    "date": "2026-10-21 14:39:19",
+    "original_body_sha256": "df5d7155d903fc3a35080a5e9bcec51dee87d7050b05ad7019918d0b7a79cc6a",
+    "assets": []
+  },
+  {
+    "source_site": "blog-crazy",
+    "source_file": "_posts/ai_labs/晒太阳会让心情变好.md",
+    "file": "source/_posts/blog-crazy/晒太阳会让心情变好.md",
+    "title": "晒太阳会让心情变好",
+    "date": "2026-10-27 15:44:26",
+    "original_body_sha256": "cbae87c355b6fc63d3bc4ad9e397696c30e43679bc89d67272e20e4e998893e5",
+    "assets": []
+  }
+]
