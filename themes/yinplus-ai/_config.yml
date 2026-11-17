@@ -1,6 +1,5 @@
 # Navigation bar without starting with a slash
 menu:
-  博客: https://smallyu.net/
   AI 文章: ''
 
 # Recommended to enable when the page count is more than 1
